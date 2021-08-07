@@ -7,3 +7,6 @@ Contains a module to draw regular polygons and 2 modules to draw a matrix of hex
 
 ## spherical_cap
 Contains a module to draw a sperical cap knowing the cap cord, height and thickness.
+
+## logo
+Contains a module to draw the 3D logo of Tetracube Red.
